@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscoveryApplication<discovery-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "pl.piomin.services.discovery.DiscoveryApplication",
+            "projectName": "discovery-service",
+            "args": ""
+        }
+    ]
+}
